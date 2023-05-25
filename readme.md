@@ -3,7 +3,7 @@
 Hi, I'm Roopesh Vetcha, a Front-End Developer🚀 from India, making my path to App Development.
 
 - 📫 How to reach me: [vetcharoopesh@gmail.com](mailto:vetcharoopesh@gmail.com)
-- 💼 LinkedIn: [Roopesh Vetcha](https://www.linkedin.com/in/roopesh-vetcha/)
+- 💼 LinkedIn: [Roopesh Vetcha](https://www.linkedin.com/in/vetcharoopesh/)
 - 🐦 Twitter: [@RoopeshVetcha](https://twitter.com/RoopeshVetcha)
 
 ## Tech Stack
