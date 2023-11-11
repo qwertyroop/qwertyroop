@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=900&pause=1000&center=true&random=false&width=435&lines=Heyy+%F0%9F%91%8B%2C+I'm+Roopesh+Vetcha)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=60&pause=1000&center=true&random=false&width=435&lines=Heyy+%F0%9F%91%8B%2C+I'm+Roopesh+Vetcha)](https://git.io/typing-svg)
+
+---
 
 Hello, I'm Roopesh Vetcha, a Front-End Developer🚀 from India, currently delving into open source and mastering new technologies.
 
