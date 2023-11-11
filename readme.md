@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=60&pause=1000&color=A759F7&random=false&width=1000&height=100&lines=Heyy+%F0%9F%91%8B%2C+I'm+Roopesh+Vetcha)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=60&pause=1000&color=A759F7&vCenter=true&random=false&width=1000&height=100&lines=Heyy+%F0%9F%91%8B%2C+I'm+Roopesh+Vetcha)](https://git.io/typing-svg)
 
 ---
 
