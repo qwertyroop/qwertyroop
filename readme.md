@@ -1,10 +1,12 @@
-# Hey 👋🏽, I'm Roopesh Vetcha!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=900&pause=1000&center=true&random=false&width=435&lines=Heyy+%F0%9F%91%8B%2C+I'm+Roopesh+Vetcha)](https://git.io/typing-svg)
 
-Hi, I'm Roopesh Vetcha, a Front-End Developer🚀 from India, making my path to App Development.
+Hello, I'm Roopesh Vetcha, a Front-End Developer🚀 from India, currently delving into open source and mastering new technologies.
 
 - 📫 How to reach me: [vetcharoopesh@gmail.com](mailto:vetcharoopesh@gmail.com)
 - 💼 LinkedIn: [Roopesh Vetcha](https://www.linkedin.com/in/vetcharoopesh/)
 - 🐦 Twitter: [@RoopeshVetcha](https://twitter.com/RoopeshVetcha)
+
+---
 
 ## Tech Stack
 
