@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Full-Stack Developer, Student, Graphic Designer and a eSports Athelete, I'm a react.js and CSS nerd. I can't shut up about test-driven development and utility-first CSS.
 
 ### 🛠 Tech Stack and Tools
